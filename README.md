@@ -1,2 +1,2 @@
 # Copy Directory
-Winform application test to a directory into another using a recursive function.
+Winform application test to copy a directory into another using a recursive function.
